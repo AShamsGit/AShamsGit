@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Ahmadshams.io@outlook.com**
 
-- ⚡ Fun-Fact **I Create Youtube Videos|** **I Love To Play Chess|** **I Know The Best Food Places In Toronto**
+- ⚡ Fun-Fact ** **I Love To Play Chess|** **I Know The Best Food Places In Toronto**
 
 <p align="left">
 </p>
