@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Shams</h1>
 <h3 align="center">I.T professional, specializing in Endpoint Management and I.T Infrastructure Management.</h3>
 
-- 🌱 I’m currently learning **LLM, ETL Data-Science, Solidiity**
+- 🌱 I’m currently learning **LLM, ETL Data-Science, Solidiity, IOT Device Management**
 
 - 📝 I regularly write articles on [https://ahmadshams.io/](https://ahmadshams.io/)
 
